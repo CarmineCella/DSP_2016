@@ -10,6 +10,8 @@ Courses:
 - Elements of mathematic and physics for DSP
 - Live electronics
 
+NB: DO NOT CITE THIS MATERIAL WITHOUTH ASKING PERMISSION TO THE AUTHOR.
+
 For any question please write to carmine.emanuele.cella@gmail.com
 
 
